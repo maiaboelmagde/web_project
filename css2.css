@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: rgb(51, 26, 9);
+    margin-top: 25px;
+    background-color: rgb(245, 169, 70);
+}
+.borders{
+    border: 2px solid #443;
+    width: 70%;
+    margin-left: 170px;
+    margin-top: 70px;
+    border-radius: 2%;
+    padding: 20px;
+    background-color: rgb(223, 158, 61);
+    margin-bottom: 50px;
+    
+}
